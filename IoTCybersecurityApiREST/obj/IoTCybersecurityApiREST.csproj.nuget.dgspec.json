@@ -1,0 +1,197 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Users\\kazil\\Downloads\\IoTCyberProjectFix-beautifyandfinalise\\IoTCybersecurityApiREST\\IoTCybersecurityApiREST.csproj": {}
+  },
+  "projects": {
+    "D:\\Users\\kazil\\Downloads\\IoTCyberProjectFix-beautifyandfinalise\\IoTCybersecurityAPI.Library\\IoTCybersecurityAPI.Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\kazil\\Downloads\\IoTCyberProjectFix-beautifyandfinalise\\IoTCybersecurityAPI.Library\\IoTCybersecurityAPI.Library.csproj",
+        "projectName": "IoTCybersecurityAPI.Library",
+        "projectPath": "D:\\Users\\kazil\\Downloads\\IoTCyberProjectFix-beautifyandfinalise\\IoTCybersecurityAPI.Library\\IoTCybersecurityAPI.Library.csproj",
+        "packagesPath": "C:\\Users\\kazil\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\kazil\\Downloads\\IoTCyberProjectFix-beautifyandfinalise\\IoTCybersecurityAPI.Library\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kazil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/zakariyeali/index.json": {},
+          "https://www.myget.org/F/caliburn-micro-builds/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Users\\kazil\\Downloads\\IoTCyberProjectFix-beautifyandfinalise\\IoTCybersecurityApiREST\\IoTCybersecurityApiREST.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\kazil\\Downloads\\IoTCyberProjectFix-beautifyandfinalise\\IoTCybersecurityApiREST\\IoTCybersecurityApiREST.csproj",
+        "projectName": "IoTCybersecurityApiREST",
+        "projectPath": "D:\\Users\\kazil\\Downloads\\IoTCyberProjectFix-beautifyandfinalise\\IoTCybersecurityApiREST\\IoTCybersecurityApiREST.csproj",
+        "packagesPath": "C:\\Users\\kazil\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\kazil\\Downloads\\IoTCyberProjectFix-beautifyandfinalise\\IoTCybersecurityApiREST\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kazil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/zakariyeali/index.json": {},
+          "https://www.myget.org/F/caliburn-micro-builds/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\Users\\kazil\\Downloads\\IoTCyberProjectFix-beautifyandfinalise\\IoTCybersecurityAPI.Library\\IoTCybersecurityAPI.Library.csproj": {
+                "projectPath": "D:\\Users\\kazil\\Downloads\\IoTCyberProjectFix-beautifyandfinalise\\IoTCybersecurityAPI.Library\\IoTCybersecurityAPI.Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            },
+            "System.Runtime.InteropServices.PInvoke": {
+              "target": "Package",
+              "version": "[4.0.0-rc2-24027, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
