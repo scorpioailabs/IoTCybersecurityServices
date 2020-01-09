@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap4")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-IoTCybersecurityApiREST-4D5AE960-9427-4187-8403-C767E5A3DBF9")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("IoTCybersecurityApiREST")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]

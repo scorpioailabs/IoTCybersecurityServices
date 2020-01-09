@@ -14,7 +14,8 @@ namespace IoTCybersecurityApiREST.Controllers
     [Produces("application/json")]
     [Route("api/device")]
     [ApiVersion("1.0")]
-    [Authorize]
+    //[Authorize]
+    [AllowAnonymous]
     public class DeviceController : ControllerBase
     {
         private readonly IConfiguration _config;
