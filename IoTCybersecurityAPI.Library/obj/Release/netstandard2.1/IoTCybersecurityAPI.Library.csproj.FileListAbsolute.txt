@@ -1,0 +1,9 @@
+D:\Users\kazil\Downloads\IoTCyberProjectFix-beautifyandfinalise\IoTCybersecurityAPI.Library\bin\Release\netstandard2.1\IoTCybersecurityAPI.Library.dll.config
+D:\Users\kazil\Downloads\IoTCyberProjectFix-beautifyandfinalise\IoTCybersecurityAPI.Library\bin\Release\netstandard2.1\IoTCybersecurityAPI.Library.deps.json
+D:\Users\kazil\Downloads\IoTCyberProjectFix-beautifyandfinalise\IoTCybersecurityAPI.Library\bin\Release\netstandard2.1\IoTCybersecurityAPI.Library.dll
+D:\Users\kazil\Downloads\IoTCyberProjectFix-beautifyandfinalise\IoTCybersecurityAPI.Library\bin\Release\netstandard2.1\IoTCybersecurityAPI.Library.pdb
+D:\Users\kazil\Downloads\IoTCyberProjectFix-beautifyandfinalise\IoTCybersecurityAPI.Library\obj\Release\netstandard2.1\IoTCybersecurityAPI.Library.csprojAssemblyReference.cache
+D:\Users\kazil\Downloads\IoTCyberProjectFix-beautifyandfinalise\IoTCybersecurityAPI.Library\obj\Release\netstandard2.1\IoTCybersecurityAPI.Library.AssemblyInfoInputs.cache
+D:\Users\kazil\Downloads\IoTCyberProjectFix-beautifyandfinalise\IoTCybersecurityAPI.Library\obj\Release\netstandard2.1\IoTCybersecurityAPI.Library.AssemblyInfo.cs
+D:\Users\kazil\Downloads\IoTCyberProjectFix-beautifyandfinalise\IoTCybersecurityAPI.Library\obj\Release\netstandard2.1\IoTCybersecurityAPI.Library.dll
+D:\Users\kazil\Downloads\IoTCyberProjectFix-beautifyandfinalise\IoTCybersecurityAPI.Library\obj\Release\netstandard2.1\IoTCybersecurityAPI.Library.pdb
